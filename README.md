@@ -2,8 +2,6 @@
 
 A Vue 3 application for creating and managing custom color palette workspaces for theme configuration. Build, preview, and save custom code editor themes with live syntax highlighting.
 
-![Color Workspace Builder](public/workspace-builder.png)
-
 ## Features
 
 - 🎨 **Interactive Palette Selection** - Choose from 7 pre-built color palettes
